@@ -1,7 +1,6 @@
-<h1 align="center">Hi 👋, I'm Petar Belchev</h1>
-<h3 align="center">A passionate software developer from Bulgaria</h3>
+<h1>Hi 👋, I'm Petar Belchev</h1>
 
-- 🔭 I’m currently working on [Personal Financer](https://github.com/petarbelchev/PersonalFinancer-WebApp)
+- 🌱 I’m currently learning **React**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
