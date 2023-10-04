@@ -24,6 +24,18 @@
 <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> 
 </p>
 
+<p>
+<h3 align="left">Course Certificates:</h3>
+<a href="https://drive.google.com/file/d/16QVNrj5UIST-vazzaOlrVYO7bxufiqvW/view?usp=sharing">ASP.NET Advanced</a> |
+<a href="https://drive.google.com/file/d/1e14NIh8iSopnQD9BUcS9o0I0HTYcCt00/view?usp=drive_link">ASP.NET Fundamentals</a> |
+<a href="https://drive.google.com/file/d/1EOLPe_W9WzO1ih3N69CFFy9xTbwqXtuX/view?usp=drive_link">Entity Framework Core</a> |
+<a href="https://drive.google.com/file/d/1pueHaQipxT4g3Sh_B_PaAILGEPQYJ2Wx/view?usp=drive_link">MS SQL</a> |
+<a href="https://drive.google.com/file/d/1yitn-xcY7fvelcEj6U-hKhwsMt316yt2/view?usp=drive_link">C# OOP</a> |
+<a href="https://drive.google.com/file/d/1pz-dNT30D90_66Eaw8PR3ZziqndAa6V4/view?usp=drive_link">C# Advanced</a> |
+<a href="https://drive.google.com/file/d/19F9vq0koJRTUjdkv8PZMBADdj_DfQigH/view?usp=drive_link">JS Applications</a> |
+<a href="https://drive.google.com/file/d/1PSsKGk8En-zWvDlCJCnCF58wqf_DbO6C/view?usp=drive_link">JS Advanced</a>
+</p>
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=petarbelchev&show_icons=true&locale=en&layout=compact" alt="petarbelchev" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=petarbelchev&show_icons=true&locale=en" alt="petarbelchev" /></p>
