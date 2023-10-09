@@ -1,6 +1,6 @@
 <h1>Hi 👋, I'm Petar Belchev</h1>
 
-- 🔭 I’m currently working on [HotelBooking](https://github.com/petarbelchev/HotelBooking)
+- 🔭 I’m currently working on [Hotel Booking](https://github.com/petarbelchev/HotelBooking) and [Hotel Booking React App](https://github.com/petarbelchev/hotel-booking-react-app)
 - 🌱 I’m currently learning **ReactJS**
 
 <h3 align="left">Connect with me:</h3>
