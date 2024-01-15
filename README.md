@@ -2,8 +2,6 @@
 
 - 🔭 I’m currently working on [Hotel Booking](https://github.com/petarbelchev/HotelBooking) and [Hotel Booking React App](https://github.com/petarbelchev/hotel-booking-react-app)
 - 👯 I'm currently collaborating on [HomesBE](https://github.com/rosteslav/HomesBE)
-- 👯 I'm currently collaborating on [HomesFE](https://github.com/rosteslav/HomesFE)
-- 🌱 I’m currently learning **ReactJS**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
